@@ -21,4 +21,4 @@
 * run `. deploy.sh` to deploy to EV3 Brick via USB connection
 * on EV3 brick under leJOS select `Programs` > `helloworld.jar` > `Execute program`
 
-![alt tag](https://dl.dropbox.com/s/1jl5x50z861h1dh/2014-04-22%2022.37.15.jpg)
+![alt tag](https://www.dropbox.com/s/lqehwp246suddpr/2014-04-21%2022.44.54.jpg?raw=1)
